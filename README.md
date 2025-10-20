@@ -1,4 +1,8 @@
-just run "python main.py [number]" to test any given solution/file. Like this:
-python main.py 007 
+just run "python main.py [number]" in terminal/folder to test any given solution/file. 
 
-And setup the test class/cases in each problem file as needed ...
+Like this:
+```python main.py 007 ```
+
+Where "007" is prefix of your solution .py file. And make sure the test class/cases in each problem file as needed
+
+
